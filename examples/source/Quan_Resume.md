@@ -1,7 +1,7 @@
 # Ryan Quan
 
 > [Download PDF](Quan_Resume.pdf)  
-> [ryan.quan08@gmail.com](ryan.quan08@gmail.com)
+> [ryan.quan08@gmail.com](mailto:ryan.quan08@gmail.com)
 > (408) 821-3440
 
 ------
@@ -86,6 +86,6 @@ Undergraduate Researcher
 
 ### Footer {#footer}
 
-Ryan Quan -- [ryan.quan08@gmail.com](ryan.quan08@gmail.com) -- (408) 821-3440
+Ryan Quan -- [ryan.quan08@gmail.com](mailto:ryan.quan08@gmail.com) -- (408) 821-3440
 
 ------
