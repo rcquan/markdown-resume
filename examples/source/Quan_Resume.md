@@ -37,9 +37,9 @@ University of California, Berkeley
 1. R
 1. Stata
 1. SAS
-1. Python (pandas)
+1. Python
 1. mySQL, SQLite
-1. MapReduce
+1. MongoDB
 1. QGIS
 1. Excel VBA
 1. LaTeX
@@ -61,7 +61,7 @@ Graduate Research Assistant, Muennig Lab
 Policy and Data Analyst
 : *New York City Council*
   __Jan 2014 - Aug 2014__
-  Coordinated cost-effectiveness research crucial to the introduction of new legislation Intro 0214-2014. Managed database API of over 25,000 voters. Developed statistical reports using QGIS and Python to improve operations and inform policy.
+  Coordinated cost-effectiveness research crucial to the introduction of new legislation Intro 0214-2014. Managed database of over 25,000 voters and developed front-facing web application using NationBuilder API. Scraped data using Python and developed statistical reports using R and QGIS to improve operations and inform policy.
 
 Administrator
 : *P&T Wealth Management*
@@ -86,6 +86,6 @@ Undergraduate Researcher
 
 ### Footer {#footer}
 
-Ryan Quan -- [ryan.quan08@gmail.com](mailto:ryan.quan08@gmail.com) -- (408) 821-3440
+Ryan Quan -- [ryan.quan08@gmail.com](mailto:ryan.quan08@gmail.com) -- [www.ryancquan.com](www.ryancquan.com)
 
 ------
