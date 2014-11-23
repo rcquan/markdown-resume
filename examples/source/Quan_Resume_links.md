@@ -1,7 +1,7 @@
 # Ryan Quan
 
-> [Download PDF](Quan_Resume.pdf)  
-> [ryan.quan08@gmail.com](ryan.quan08@gmail.com)
+> [Download PDF](/assets/documents/RyanQuan_Resume.pdf)  
+> [ryan.quan08@gmail.com](mailto:ryan.quan08@gmail.com)
 > (408) 821-3440
 
 ------

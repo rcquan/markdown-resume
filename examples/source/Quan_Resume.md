@@ -1,6 +1,6 @@
 # Ryan Quan
 
-> [Download PDF](Quan_Resume.pdf)  
+> [Download PDF](/assets/documents/RyanQuan_Resume.pdf)  
 > [ryan.quan08@gmail.com](mailto:ryan.quan08@gmail.com)
 > (408) 821-3440
 
@@ -24,7 +24,7 @@ University of California, Berkeley
 * Data Analysis and Visualization
   : Using statistics to model complex decisions and uncover meaningful patterns in our society. 
 
-* Programming and Database Management
+* Programming and Databases
   : Optimizing the research pipeline by coding efficient query strings and mapping scripts.
 
 * Multidisciplinary Research
@@ -35,13 +35,13 @@ University of California, Berkeley
 ### Technical {#technical}
 
 1. R
+1. Python
 1. Stata
 1. SAS
-1. Python
-1. mySQL, SQLite
+1. MySQL, SQLite
 1. MongoDB
-1. QGIS
-1. Excel VBA
+1. GIS (R, QGIS)
+1. TreeAge
 1. LaTeX
 
 ------
