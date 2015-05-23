@@ -1,7 +1,7 @@
 # Ryan Quan
 
 > [Download PDF](/assets/documents/RyanQuan_Resume.pdf)  
-> [ryan.quan08@gmail.com](mailto:ryan.quan08@gmail.com)
+> [ryan.quan08@gmail.com](mailto:ryan.quan08@gmail.com) |
 > (408) 821-3440
 
 ------
@@ -10,8 +10,8 @@
 
 Mailman School of Public Health, Columbia University
 : *MPH, Public Health Informatics*
-  __(Expected) May 2015__
-  Relevant Coursework: Computing with SAS, Decision Analysis, Data Mining, Data Visualization
+  __May 2015__
+  Relevant Coursework: Data Mining, Data Visualization, Methods in Biomedical Informatics
 
 University of California, Berkeley
 : *B.S., Microbial Biology*
@@ -21,66 +21,63 @@ University of California, Berkeley
 
 ### Skills {#skills}
 
-* Data Analysis and Visualization
-  : Using statistics to model complex decisions and uncover meaningful patterns in our society. 
+* Predictive Analytics 
+  : Leveraging computational statistics and machine learning to extract information from data, build useful models, and drive better decisions.
 
-* Programming and Databases
-  : Optimizing the research pipeline by coding efficient query strings and mapping scripts.
+* Health Domain Knowledge
+  : Experience in analyzing large, unstructured datasets from insurance claims, electronic health records, genomics, and health policy experiments.
 
-* Multidisciplinary Research
-  : Bridging background in biology and finance to tackle questions ranging from health policy to the human microbiome.
+* Data Storytelling
+  : Transforming raw numbers into narrative visualizations that communicate technical ideas and insights to non-technical audiences.
 
 -------
 
 ### Technical {#technical}
 
-1. R
-1. Python
-1. Stata
-1. SAS
-1. MySQL, SQLite
-1. MongoDB
-1. GIS (R, QGIS)
-1. TreeAge
-1. LaTeX
+1. *Languages:* R, Python, SAS, SQL
+2. *ML Packages:* caret, scikit-learn
+3. *Databases:* PostgreSQL, MongoDB
+4. *Version Control:* git
+5. *Programs:* Excel, ArcGIS, Treeage
+6. *Visualization:* ggplot2, seaborn, D3.js
 
 ------
 
 ### Experience {#experience}
 
-Graduate Research Assistant, Genkinger Lab
-: *Columbia University, Department of Epidemiology*
-  __Feb 2014 - present__
-  Lead coding for DNA methylation analysis of ovarian cancer biomarkers using machine learning algorithms and R/Bioconductor. Conduct data analysis using SAS. Write scripts using Python to optimize research and administrative tasks.
+Data Scientist Intern
+: *Omada Health - San Francisco, CA*
+  __June 2015 - present__
 
-Graduate Research Assistant, Muennig Lab
-: *Columbia University, Department of Health Policy*
-  __Dec 2013 - present__
-  Lead independent research on the health effects of altruism and multigenerational families using Stata. Conduct cost-effectiveness analysis, building Markov models and running probabilistic sensitivity analyses to cross-validate results. 
+Research Associate
+: *Columbia University, Dept. of Health Policy - New York, NY*
+  __Dec 2013 - May 2015__
+  Coordinated statistical analyses of health policy studies in conjunction with stakeholders from NYC Department of Health and the US Census Bureau. Ran robust regression and cost-effectiveness models on high-performance computing cluster to validate a state-level health insurance study.
+
+Graduate Research Assistant
+: *Columbia University, Dept. of Epidemiology - New York, NY*
+  __Feb 2014 - May 2015__
+  Led R programming unit. Developed interactive R programs to optimize cleaning and analysis of high-throughput epigenomics data. Ran regression analyses of experimental and observational studies relating to obesity and cancer.
 
 Policy and Data Analyst
-: *New York City Council*
+: *City Council - New York, NY*
   __Jan 2014 - Aug 2014__
-  Coordinated cost-effectiveness research crucial to the introduction of new legislation Intro 0214-2014. Managed database of over 25,000 voters and developed front-facing web application using NationBuilder API. Scraped data using Python and developed statistical reports using R and QGIS to improve operations and inform policy.
+  Directed cost-effectiveness research essential to the introduction of new legislation (Intro 0214-2014). Managed database of over 25,000 voters. Applied supervised machine learning to optimize messaging campaigns. Developed front-facing web application using NationBuilder API. Automated statistical and GIS reports to improve operations and inform policy.
 
 Administrator
-: *P&T Wealth Management*
+: *P&T Wealth Management - Cupertino, CA*
   __Apr 2013 - Aug 2013__
-  Leveraged Salesforce.com CRM to identify opportunities, needs, and gaps using SOQL. Cleaned redundancies in database to optimize queries. Led organization of seminars and events averaging 100+ attendees.
+  Leveraged Salesforce.com CRM to identify opportunities, needs, and gaps for health providers. Cleaned redundancies in database to optimize SQL queries. Led organization of seminars and events averaging 100+ attendees.
 
 Director of Program Development
-: *Asian American Center of Santa Clara County*
+: *Asian American Center - San Jose, CA*
   __Sep 2012 - Apr 2013__
-  Designed Affordable Care Act curriculum for low-income immigrant population. Created program evaluation framework to assess effectiveness of intervention. Organized community health fair for over 200 attendees. 
+  Designed Affordable Care Act curriculum for low-income immigrant population. Created program evaluation framework to assess effectiveness of intervention. Organized community health event for 200+ attendees. 
 
 Founder and Chairman
-: *VISION High School Outreach*
+: *VISION High School Outreach - Berkeley, CA*
   __Jan 2012 - present__
   Founded state-wide high school program to address issues in culture and higher education. Created and manage annual scholarship fund for Vietnamese high school students totaling $20,000+.
-
-Undergraduate Researcher
-: *UC Berkeley, Department of Nutritional Sciences*
-  __May 2010-Jan 2012__
 
 ------
 
